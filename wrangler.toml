@@ -6,11 +6,11 @@ workers_dev = true
 
 [[kv_namespaces]]
 binding = "PASTE_STORE"
-id = "temporary-id-12345"
+id = "dc792a20848b4a87b1751efbc661fd1b"
 
 [[kv_namespaces]]
 binding = "UPLOAD_STATUS"
-id = "temporary-id-67890"
+id = "98168c1fc08d4959adaa3b5ea5d09e05"
 
 [[r2_buckets]]
 bucket_name = "cloudpaste-files"
